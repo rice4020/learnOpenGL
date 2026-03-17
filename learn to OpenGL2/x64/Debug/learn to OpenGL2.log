@@ -1,2 +1,23 @@
 ﻿  test.cpp
+glfw3.lib(init.obj) : warning LNK4099: 'glfw3.pdb' PDB를 'glfw3.lib(init.obj)' 또는 'C:\Users\samsung\Desktop\source\repos\learn to OpenGL2\x64\Debug\glfw3.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(window.obj) : warning LNK4099: 'glfw3.pdb' PDB를 'glfw3.lib(window.obj)' 또는 'C:\Users\samsung\Desktop\source\repos\learn to OpenGL2\x64\Debug\glfw3.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(input.obj) : warning LNK4099: 'glfw3.pdb' PDB를 'glfw3.lib(input.obj)' 또는 'C:\Users\samsung\Desktop\source\repos\learn to OpenGL2\x64\Debug\glfw3.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(context.obj) : warning LNK4099: 'glfw3.pdb' PDB를 'glfw3.lib(context.obj)' 또는 'C:\Users\samsung\Desktop\source\repos\learn to OpenGL2\x64\Debug\glfw3.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(win32_time.obj) : warning LNK4099: 'glfw3.pdb' PDB를 'glfw3.lib(win32_time.obj)' 또는 'C:\Users\samsung\Desktop\source\repos\learn to OpenGL2\x64\Debug\glfw3.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(win32_thread.obj) : warning LNK4099: 'glfw3.pdb' PDB를 'glfw3.lib(win32_thread.obj)' 또는 'C:\Users\samsung\Desktop\source\repos\learn to OpenGL2\x64\Debug\glfw3.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(platform.obj) : warning LNK4099: 'glfw3.pdb' PDB를 'glfw3.lib(platform.obj)' 또는 'C:\Users\samsung\Desktop\source\repos\learn to OpenGL2\x64\Debug\glfw3.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(monitor.obj) : warning LNK4099: 'glfw3.pdb' PDB를 'glfw3.lib(monitor.obj)' 또는 'C:\Users\samsung\Desktop\source\repos\learn to OpenGL2\x64\Debug\glfw3.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(vulkan.obj) : warning LNK4099: 'glfw3.pdb' PDB를 'glfw3.lib(vulkan.obj)' 또는 'C:\Users\samsung\Desktop\source\repos\learn to OpenGL2\x64\Debug\glfw3.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(win32_init.obj) : warning LNK4099: 'glfw3.pdb' PDB를 'glfw3.lib(win32_init.obj)' 또는 'C:\Users\samsung\Desktop\source\repos\learn to OpenGL2\x64\Debug\glfw3.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(null_init.obj) : warning LNK4099: 'glfw3.pdb' PDB를 'glfw3.lib(null_init.obj)' 또는 'C:\Users\samsung\Desktop\source\repos\learn to OpenGL2\x64\Debug\glfw3.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(win32_module.obj) : warning LNK4099: 'glfw3.pdb' PDB를 'glfw3.lib(win32_module.obj)' 또는 'C:\Users\samsung\Desktop\source\repos\learn to OpenGL2\x64\Debug\glfw3.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(win32_monitor.obj) : warning LNK4099: 'glfw3.pdb' PDB를 'glfw3.lib(win32_monitor.obj)' 또는 'C:\Users\samsung\Desktop\source\repos\learn to OpenGL2\x64\Debug\glfw3.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(win32_window.obj) : warning LNK4099: 'glfw3.pdb' PDB를 'glfw3.lib(win32_window.obj)' 또는 'C:\Users\samsung\Desktop\source\repos\learn to OpenGL2\x64\Debug\glfw3.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(win32_joystick.obj) : warning LNK4099: 'glfw3.pdb' PDB를 'glfw3.lib(win32_joystick.obj)' 또는 'C:\Users\samsung\Desktop\source\repos\learn to OpenGL2\x64\Debug\glfw3.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(wgl_context.obj) : warning LNK4099: 'glfw3.pdb' PDB를 'glfw3.lib(wgl_context.obj)' 또는 'C:\Users\samsung\Desktop\source\repos\learn to OpenGL2\x64\Debug\glfw3.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(egl_context.obj) : warning LNK4099: 'glfw3.pdb' PDB를 'glfw3.lib(egl_context.obj)' 또는 'C:\Users\samsung\Desktop\source\repos\learn to OpenGL2\x64\Debug\glfw3.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(osmesa_context.obj) : warning LNK4099: 'glfw3.pdb' PDB를 'glfw3.lib(osmesa_context.obj)' 또는 'C:\Users\samsung\Desktop\source\repos\learn to OpenGL2\x64\Debug\glfw3.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(null_monitor.obj) : warning LNK4099: 'glfw3.pdb' PDB를 'glfw3.lib(null_monitor.obj)' 또는 'C:\Users\samsung\Desktop\source\repos\learn to OpenGL2\x64\Debug\glfw3.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(null_window.obj) : warning LNK4099: 'glfw3.pdb' PDB를 'glfw3.lib(null_window.obj)' 또는 'C:\Users\samsung\Desktop\source\repos\learn to OpenGL2\x64\Debug\glfw3.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(null_joystick.obj) : warning LNK4099: 'glfw3.pdb' PDB를 'glfw3.lib(null_joystick.obj)' 또는 'C:\Users\samsung\Desktop\source\repos\learn to OpenGL2\x64\Debug\glfw3.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
   learn to OpenGL2.vcxproj -> C:\Users\samsung\Desktop\source\repos\learn to OpenGL2\x64\Debug\learn to OpenGL2.exe
